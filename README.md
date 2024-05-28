@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Bitcoin "creado por EDER OLIVERO, MADE IN BADILLO"
 =====================================
 
 https://bitcoincore.org
